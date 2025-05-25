@@ -5,9 +5,11 @@
   "main": "Main.xaml",
   "dependencies": {
     "Dapp.Wordmerge6.Activities": "[1.0.1]",
+    "UiPath.Excel.Activities": "[3.0.1]",
     "UiPath.Mail.Activities": "[2.1.10-preview]",
     "UiPath.PDF.Activities": "[3.22.1]",
-    "UiPath.System.Activities": "[25.4.2]"
+    "UiPath.System.Activities": "[25.4.2]",
+    "UiPath.Word.Activities": "[2.0.1]"
   },
   "webServices": [],
   "entitiesStores": [],
